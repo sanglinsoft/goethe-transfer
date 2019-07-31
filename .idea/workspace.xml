@@ -1,0 +1,1163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="808f7887-0f4f-43b1-a69e-f5d6944fec86" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fte-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fte-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/Datagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/Datagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fte-common/src/test/java/cn/linkapp/lfs/fte/DatagramDecoderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/fte-common/src/test/java/cn/linkapp/lfs/fte/DatagramDecoderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-kcp-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/netty-kcp-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-kcp-client/src/main/java/cn/linkapp/lfs/fte/client/NettyKcpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/netty-kcp-client/src/main/java/cn/linkapp/lfs/fte/client/NettyKcpClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-kcp-client/src/main/java/cn/linkapp/lfs/fte/client/NettyKcpClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/netty-kcp-client/src/main/java/cn/linkapp/lfs/fte/client/NettyKcpClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-kcp-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/netty-kcp-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-kcp-server/src/main/java/cn/linkapp/lfs/fte/server/NettyKcpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/netty-kcp-server/src/main/java/cn/linkapp/lfs/fte/server/NettyKcpServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty-kcp-server/src/main/java/cn/linkapp/lfs/fte/server/NettyKcpServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/netty-kcp-server/src/main/java/cn/linkapp/lfs/fte/server/NettyKcpServerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/netty-kcp-server/target/" />
+    <ignored path="$PROJECT_DIR$/netty-kcp-client/target/" />
+    <ignored path="$PROJECT_DIR$/fte-common/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/fte_server$cn_linkapp_lfs_fte_in_fte_common.ic" NAME="cn.linkapp.lfs.fte in fte-common Coverage Results" MODIFIED="1564401058179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.linkapp.lfs.fte.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/fte_server$All_in_fte_common.ic" NAME="All in fte-common Coverage Results" MODIFIED="1563962446603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/fte_server$DatagramDecoderTest.ic" NAME="DatagramDecoderTest Coverage Results" MODIFIED="1564482697049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.linkapp.lfs.fte.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/fte_server$NettyKcpServerHandlerTest.ic" NAME="NettyKcpServerHandlerTest Coverage Results" MODIFIED="1564390870218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.linkapp.lfs.fte.server.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="63" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty-kcp-server/src/main/java/cn/linkapp/lfs/fte/server/NettyKcpServerHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-982">
+              <caret line="68" column="15" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/FileFinder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fte-common/src/test/java/cn/linkapp/lfs/fte/DatagramDecoderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/RedisFileFinder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="26" column="71" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/DatagramDecoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/DatagramEncoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fte-common/src/test/java/cn/linkapp/lfs/fte/RedisFileFinderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19-sources.jar!/org/mockito/internal/MockitoCore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>group</find>
+      <find>write</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/netty-kcp-server/src/main/java/cn/linkapp/lfs/fte/NettyKcpServer.java" />
+        <option value="$PROJECT_DIR$/netty-kcp-server/src/main/java/cn/linkapp/lfs/fte/client/NettyKcpClientHandler.java" />
+        <option value="$PROJECT_DIR$/netty-kcp-server/src/main/java/cn/linkapp/lfs/fte/Datagram.java" />
+        <option value="$PROJECT_DIR$/netty-kcp-server/src/main/java/cn/linkapp/lfs/fte/client/NettyKcpClient.java" />
+        <option value="$PROJECT_DIR$/netty-kcp-client/src/main/java/cn/linkapp/lfs/fte/Datagram.java" />
+        <option value="$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/FileChunk.java" />
+        <option value="$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/DatagramEncoder.java" />
+        <option value="$PROJECT_DIR$/fte-common/src/test/java/cn/linkapp/lfs/fte/DatagramTest.java" />
+        <option value="$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/FileChunkEncoder.java" />
+        <option value="$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/Datagram.java" />
+        <option value="$PROJECT_DIR$/netty-kcp-client/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-kcp-client/src/main/java/cn/linkapp/lfs/fte/client/NettyKcpClient.java" />
+        <option value="$PROJECT_DIR$/netty-kcp-client/src/main/java/cn/linkapp/lfs/fte/client/NettyKcpClientHandler.java" />
+        <option value="$PROJECT_DIR$/netty-kcp-server/src/main/java/cn/linkapp/lfs/fte/server/NotifyListener.java" />
+        <option value="$PROJECT_DIR$/netty-kcp-server/src/main/java/cn/linkapp/lfs/fte/server/LogListener.java" />
+        <option value="$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/FileInfo.java" />
+        <option value="$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/FileFinder.java" />
+        <option value="$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/FileChannelCreator.java" />
+        <option value="$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/FileManager.java" />
+        <option value="$PROJECT_DIR$/fte-common/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-kcp-server/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-kcp-server/src/main/java/cn/linkapp/lfs/fte/server/NettyKcpServerHandler.java" />
+        <option value="$PROJECT_DIR$/netty-kcp-server/src/test/java/cn/linkapp/lfs/fte/server/NettyKcpServerHandlerTest.java" />
+        <option value="$PROJECT_DIR$/netty-kcp-server/src/main/java/cn/linkapp/lfs/fte/server/NettyKcpServer.java" />
+        <option value="$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/DatagramDecoder.java" />
+        <option value="$PROJECT_DIR$/fte-common/src/test/java/cn/linkapp/lfs/fte/DatagramDecoderTest.java" />
+        <option value="$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/RedisFileFinder.java" />
+        <option value="$PROJECT_DIR$/fte-common/src/test/java/cn/linkapp/lfs/fte/RedisFileFinderTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="LFS FTE Common SDK" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="LFS FTE Common SDK" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="LFS FTE Server (over kcp-netty)" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="LFS FTE Server (over kcp-netty)" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="100" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="832" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="fte-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="fte-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="fte-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="fte-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="fte-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fte" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="fte-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="fte-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="fte-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fte" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="netty-kcp-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="netty-kcp-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="netty-kcp-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="netty-kcp-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="netty-kcp-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="netty-kcp-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="netty-kcp-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="netty-kcp-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="netty-kcp-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="netty-kcp-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="netty-kcp-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="netty-kcp-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="netty-kcp-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fte-server" type="462c0819:PsiDirectoryNode" />
+              <item name="netty-kcp-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fte-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564485638946" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.DatagramDecoderTest">
+    <configuration name="NettyKcpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.linkapp.lfs.fte.server.NettyKcpServer" />
+      <module name="netty-kcp-server" />
+      <option name="PROGRAM_PARAMETERS" value="8000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.linkapp.lfs.fte.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatagramDecoderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fte-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.linkapp.lfs.fte.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.linkapp.lfs.fte" />
+      <option name="MAIN_CLASS_NAME" value="cn.linkapp.lfs.fte.DatagramDecoderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyKcpServerHandlerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="netty-kcp-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.linkapp.lfs.fte.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.linkapp.lfs.fte.server" />
+      <option name="MAIN_CLASS_NAME" value="cn.linkapp.lfs.fte.server.NettyKcpServerHandlerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisFileFinderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fte-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.linkapp.lfs.fte.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.linkapp.lfs.fte" />
+      <option name="MAIN_CLASS_NAME" value="cn.linkapp.lfs.fte.RedisFileFinderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cn.linkapp.lfs.fte in fte-common" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fte-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.linkapp.lfs.fte.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.linkapp.lfs.fte" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NettyKcpServer" />
+      <item itemvalue="JUnit.DatagramDecoderTest" />
+      <item itemvalue="JUnit.NettyKcpServerHandlerTest" />
+      <item itemvalue="JUnit.RedisFileFinderTest" />
+      <item itemvalue="JUnit.cn.linkapp.lfs.fte in fte-common" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DatagramDecoderTest" />
+        <item itemvalue="JUnit.cn.linkapp.lfs.fte in fte-common" />
+        <item itemvalue="JUnit.RedisFileFinderTest" />
+        <item itemvalue="JUnit.NettyKcpServerHandlerTest" />
+        <item itemvalue="Application.NettyKcpServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="808f7887-0f4f-43b1-a69e-f5d6944fec86" name="Default Changelist" comment="" />
+      <created>1563848144492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563848144492</updated>
+      <workItem from="1563848152011" duration="3350000" />
+      <workItem from="1563851674342" duration="104880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RedisFileFinderTest - 2019.07.29 at 19h 45m 04s.xml">
+      <configuration name="RedisFileFinderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisFileFinderTest - 2019.07.29 at 19h 47m 44s.xml">
+      <configuration name="RedisFileFinderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="cn_linkapp_lfs_fte_in_fte-common - 2019.07.29 at 19h 51m 20s.xml">
+      <configuration name="cn.linkapp.lfs.fte in fte-common" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatagramDecoderTest - 2019.07.30 at 18h 29m 10s.xml">
+      <configuration name="DatagramDecoderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatagramDecoderTest - 2019.07.30 at 18h 30m 46s.xml">
+      <configuration name="DatagramDecoderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatagramDecoderTest - 2019.07.30 at 18h 31m 42s.xml">
+      <configuration name="DatagramDecoderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatagramDecoderTest - 2019.07.30 at 18h 40m 13s.xml">
+      <configuration name="DatagramDecoderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatagramDecoderTest - 2019.07.30 at 18h 41m 39s.xml">
+      <configuration name="DatagramDecoderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatagramDecoderTest - 2019.07.30 at 18h 42m 15s.xml">
+      <configuration name="DatagramDecoderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatagramDecoderTest - 2019.07.30 at 18h 50m 54s.xml">
+      <configuration name="DatagramDecoderTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="108230000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1608" height="880" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26508343" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32939634" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18372704" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.21128608" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.20866142" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.5024958" side_tool="true" visible="true" weight="0.19383825" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" sideWeight="0.49750414" visible="true" weight="0.19383825" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/fte-common/src/test/java/cn/linkapp/lfs/fte/DatagramDecoderTest.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/Java/jdk-11.0.2/lib/src.zip!/java.base/sun/nio/ch/FileChannelImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="140" column="30" selection-start-line="140" selection-start-column="30" selection-end-line="140" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/jpower/kcp/kcp-netty/1.4.6/kcp-netty-1.4.6-sources.jar!/io/jpower/kcp/netty/UkcpChannelOption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-505">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk-11.0.2/lib/src.zip!/java.base/java/nio/channels/FileChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-597">
+          <caret line="632" column="7" lean-forward="true" selection-start-line="632" selection-start-column="7" selection-end-line="632" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk-11.0.2/lib/src.zip!/java.base/java/io/RandomAccessFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="273" column="9" lean-forward="true" selection-start-line="273" selection-start-column="9" selection-end-line="273" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-kcp-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-kcp-client/src/main/java/cn/linkapp/lfs/fte/client/NettyKcpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1255">
+          <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk-11.0.2/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="859">
+          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/beans/PropertyChangeSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="204" column="23" selection-start-line="204" selection-start-column="23" selection-end-line="204" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/beans/ChangeListenerMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="134" column="8" selection-start-line="134" selection-start-column="8" selection-end-line="136" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/beans/PropertyChangeListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/3.1.0/jedis-3.1.0.jar!/redis/clients/jedis/Connection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="219" column="18" selection-start-line="219" selection-start-column="18" selection-end-line="219" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/3.1.0/jedis-3.1.0.jar!/redis/clients/jedis/Jedis.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="345" column="36" selection-start-line="345" selection-start-column="36" selection-end-line="345" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/json/json/20180813/json-20180813.jar!/org/json/JSONObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="140" column="57" selection-start-line="140" selection-start-column="44" selection-end-line="140" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/FileChannelCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.37.Final/netty-all-4.1.37.Final-sources.jar!/io/netty/channel/ReflectiveChannelFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/jpower/kcp/kcp-netty/1.4.6/kcp-netty-1.4.6-sources.jar!/io/netty/bootstrap/UkcpServerBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1985">
+          <caret line="225" column="13" lean-forward="true" selection-start-line="225" selection-start-column="13" selection-end-line="225" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.37.Final/netty-all-4.1.37.Final-sources.jar!/io/netty/channel/ChannelFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594">
+          <caret line="164" column="17" selection-start-line="164" selection-start-column="17" selection-end-line="164" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.37.Final/netty-all-4.1.37.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="286" column="52" selection-start-line="286" selection-start-column="52" selection-end-line="286" selection-end-column="52" />
+          <folding>
+            <element signature="e#8536#8537#0" expanded="true" />
+            <element signature="e#8596#8597#0" expanded="true" />
+            <element signature="e#10893#10894#0" expanded="true" />
+            <element signature="e#17165#17166#0" expanded="true" />
+            <element signature="e#17206#17207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/FileManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/FileChunkEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fte-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-kcp-client/src/main/java/cn/linkapp/lfs/fte/client/NettyKcpClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-kcp-server/src/main/java/cn/linkapp/lfs/fte/server/NotifyListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="61" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-kcp-server/src/main/java/cn/linkapp/lfs/fte/server/LogListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-kcp-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="50" column="58" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/FileChunk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-kcp-server/src/test/java/cn/linkapp/lfs/fte/server/NettyKcpServerHandlerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/Datagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="72" column="30" lean-forward="true" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
+          <folding>
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/FileInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-kcp-server/src/main/java/cn/linkapp/lfs/fte/server/NettyKcpServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="57" column="31" lean-forward="true" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-kcp-server/src/main/java/cn/linkapp/lfs/fte/server/NettyKcpServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-982">
+          <caret line="68" column="15" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/FileFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.37.Final/netty-all-4.1.37.Final-sources.jar!/io/netty/channel/embedded/EmbeddedChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="98" column="11" selection-start-line="98" selection-start-column="11" selection-end-line="98" selection-end-column="11" />
+          <folding>
+            <element signature="e#3783#3784#0" expanded="true" />
+            <element signature="e#3841#3842#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/DatagramDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/JUnitCore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="205" column="44" lean-forward="true" selection-start-line="205" selection-start-column="44" selection-end-line="205" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fte-common/src/test/java/cn/linkapp/lfs/fte/DatagramDecoderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/Mock.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/MockitoAnnotations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="82" column="19" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/stubbing/OngoingStubbing.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/Matchers.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="82" column="25" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="25" />
+          <folding>
+            <element signature="e#2364#2365#0" expanded="true" />
+            <element signature="e#2424#2425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/DatagramEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/Mockito.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="785">
+          <caret line="78" column="41" selection-start-line="78" selection-start-column="41" selection-end-line="78" selection-end-column="41" />
+          <folding>
+            <element signature="e#3140#3141#0" expanded="true" />
+            <element signature="e#3192#3193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19-sources.jar!/org/mockito/internal/MockitoCore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19-sources.jar!/org/mockito/Mockito.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="1284" column="30" selection-start-line="1284" selection-start-column="30" selection-end-line="1284" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fte-common/src/main/java/cn/linkapp/lfs/fte/RedisFileFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="26" column="71" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fte-common/src/test/java/cn/linkapp/lfs/fte/RedisFileFinderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>fte-common</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: io.jpower.kcp:kcp-netty:1.4.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
