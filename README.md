@@ -297,3 +297,5 @@ public void testSendDatagram() {   
 * KCP参数需要进一步理解与调整
 
 ### 8.2. 参考资源
+
+* KCP github
