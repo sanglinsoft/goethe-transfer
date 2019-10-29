@@ -18,7 +18,7 @@
     <properties>
         <junit.version>4.12</junit.version>
         <mockito.versuin>3.0.0</mockito.versuin>
-        <netty.version>4.1.37.Final</netty.version>
+        <netty.version>4.1.42.Final</netty.version>
         <kcp.version>1.4.6</kcp.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
